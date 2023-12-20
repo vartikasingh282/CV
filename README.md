@@ -77,7 +77,7 @@
       <td>HTML(5)</td>
       <td>⭐⭐</td>
       <td>CSS</td>
-      <td></td>
+      <td>⭐</td>
     </tr>
     <tr>
       <td>Python</td>
